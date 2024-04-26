@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthkumarbs&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> 
 
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Python and Django**.
   
 - 💻 All of my projects are available on [GitHub](https://github.com/nishanthkumarbs)
 
