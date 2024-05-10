@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Programming**.
 
-- 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/nishanth-kumar-b-7b2778218?).
+- 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/nishanth-kumar-bs).
 
 <h3 align="left">Languages and Tools:</h3>
 
