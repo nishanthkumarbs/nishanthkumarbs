@@ -18,7 +18,36 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishanthkumarbs&show_icons=true&locale=en" alt="nishanthkumarbs" /></p>
+<!--
+## Top Open Source Repositories
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthkumarbs&" alt="nishanthkumarbs" /></p>
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkumarbs&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkumarbs/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkumarbs&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkumarbs/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkumarbs&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkumarbs/web-projects)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=nishanthkumarbs&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nishanthkumarbs/alsiam)
 
+<br/>
+
+[![All Repositories](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/nishanthkumarbs?tab=repositories)
+
+<br/>
+<hr/>
+<br/>
+!-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthkumarbs&theme=radical&border=7F3FBF&background=0D1117" alt="Nishanth kumar's GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthkumarbs&theme=radical" alt="Nishanth kumar's GitHub Contribution"/>
+</p>
+<p align="left">
+<a> 
+    <img alt="Nishanth kumar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nishanthkumarbs&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+  <img alt="Nishanth kumar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nishanthkumarbs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+  <br/>
+</a>
+<p align="left">
+<br/>
+
+![Nishanth kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanthkumarbs&custom_title=Nishanthkumar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
