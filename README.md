@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nishanth Kumar B.S</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi%2CThere%F0%9F%91%8B;I+am+Nishanth+Kumar+S ;" alt="Typing SVG" />
+  </a>
+</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthkumarbs&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthkumarbs" /> 
@@ -28,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthkumarbs&theme=default&bg_color=FFFFFF&title_color=87CEEB&text_color=4682B4&icon_color=87CEEB" alt="Nishanth kumar's GitHub Contribution"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanthkumarbs&theme=default&bg_color=FFFFFF&title_color=8A2BE2&text_color=8A2BE2icon_color=8A2BE2" alt="Nishanth kumar's GitHub Contribution"/>
 </p>
 
 <p align="left">
@@ -41,5 +45,6 @@
 <p align="left">
 <br/>
 
-![Nishanth kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanthkumarbs&custom_title=Nishanthkumar's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=000000&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=000000&area=true)
+![Nishanth kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanthkumarbs&custom_title=Nishanthkumar's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=8A2BE2&line=8A2BE2&point=4682B4&area_color=FFFFFF&title_color=87CEEB&area=true)
+
 
