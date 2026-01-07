@@ -1,13 +1,13 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi%2CThere%F0%9F%91%8B;I+am+Nishanth+Kumar+S ;" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Nishanth+Kumar;Java+Full+Stack+Developer;I+Love+Building+Projects+%F0%9F%9A%80"
+  />
 </h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthkumarbs&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthkumarbs" /> 
 
-- 🌱 I’m currently learning **Python and Django**.
+- 🌱 I’m currently learning **Hibernate and Spring Boot**.
   
 - 💻 All of my projects are available on [GitHub](https://github.com/nishanthkumarbs).
 
